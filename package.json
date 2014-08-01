@@ -1,6 +1,6 @@
 {
   "name": "parse-cookie-phantomjs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse a cookie for use in PhantomJS",
   "license": "MIT",
   "repository": "sindresorhus/parse-cookie-phantomjs",
