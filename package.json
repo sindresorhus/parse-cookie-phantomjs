@@ -1,0 +1,35 @@
+{
+  "name": "parse-cookie-phantomjs",
+  "version": "0.0.0",
+  "description": "Parse a cookie for use in PhantomJS",
+  "license": "MIT",
+  "repository": "sindresorhus/parse-cookie-phantomjs",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "parse",
+    "cookie",
+    "cookies",
+    "nomnom",
+    "phantom",
+    "phantomjs"
+  ],
+  "dependencies": {
+    "tough-cookie": "^0.12.1"
+  },
+  "devDependencies": {
+    "ava": "0.0.3"
+  }
+}
