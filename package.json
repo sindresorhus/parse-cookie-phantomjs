@@ -27,7 +27,7 @@
     "phantomjs"
   ],
   "dependencies": {
-    "tough-cookie": "^1.1.0"
+    "tough-cookie": "^2.0.0"
   },
   "devDependencies": {
     "ava": "0.0.4"
