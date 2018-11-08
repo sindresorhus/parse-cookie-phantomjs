@@ -1,3 +1,9 @@
+# Deprecated
+
+[PhantomJS is deprecated.](https://github.com/ariya/phantomjs/issues/15344)
+
+---
+
 # parse-cookie-phantomjs [![Build Status](https://travis-ci.org/sindresorhus/parse-cookie-phantomjs.svg?branch=master)](https://travis-ci.org/sindresorhus/parse-cookie-phantomjs)
 
 > Parse a cookie for use in PhantomJS
